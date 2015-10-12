@@ -41,7 +41,7 @@
         <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
         <property name="project.structure.last.edited" value="Project" />
-        <property name="project.structure.proportion" value="0.0" />
+        <property name="project.structure.proportion" value="0.15" />
         <property name="project.structure.side.proportion" value="0.0" />
       </component>
       <component name="RunManager">
@@ -73,6 +73,27 @@
           <envs />
           <method />
         </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="TEST_OBJECT" value="class" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <envs />
+          <patterns />
+          <method />
+        </configuration>
         <configuration default="true" type="Remote" factoryName="Remote">
           <option name="USE_SOCKET_TRANSPORT" value="true" />
           <option name="SERVER_MODE" value="false" />
@@ -80,12 +101,6 @@
           <option name="HOST" value="localhost" />
           <option name="PORT" value="5005" />
           <method />
-        </configuration>
-        <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
-          <option name="MAIN_CLASS_NAME" />
-          <option name="VM_PARAMETERS" value="-ea" />
-          <option name="PARAMETERS" />
-          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
         </configuration>
         <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
           <option name="MAIN_CLASS_NAME" />
@@ -109,6 +124,7 @@
           </state>
           <state key="JdkListConfigurable.UI">
             <settings>
+              <last-edited>1.8</last-edited>
               <splitter-proportions>
                 <option name="proportions">
                   <list>
