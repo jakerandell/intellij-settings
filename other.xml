@@ -19,6 +19,9 @@
             <id>Code quality toolsJavaScript</id>
           </State>
           <State>
+            <id>Code style issuesCSS</id>
+          </State>
+          <State>
             <id>Control FlowPHP</id>
           </State>
           <State>
@@ -60,7 +63,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>QuirksModeInspectionTool</id>
+            <id>CssRedundantUnit</id>
           </State>
         </selected-state>
       </profile-state>
