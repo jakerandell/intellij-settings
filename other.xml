@@ -7,6 +7,9 @@
             <id />
           </State>
           <State>
+            <id>Android Lint</id>
+          </State>
+          <State>
             <id>CSS</id>
           </State>
           <State>
@@ -59,6 +62,9 @@
           </State>
           <State>
             <id>Sass/SCSS</id>
+          </State>
+          <State>
+            <id>Spelling</id>
           </State>
         </expanded-state>
         <selected-state>
