@@ -127,4 +127,9 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
+  <component name="DependencyUISettings">
+    <option name="UI_FLATTEN_PACKAGES" value="false" />
+    <option name="UI_COMPACT_EMPTY_MIDDLE_PACKAGES" value="false" />
+    <option name="SCOPE_TYPE" value="file" />
+  </component>
 </application>
