@@ -13,9 +13,6 @@
     </value>
   </option>
   <option name="HTML_ATTRIBUTE_WRAP" value="0" />
-  <PHPCodeStyleSettings>
-    <option name="ALIGN_CLASS_CONSTANTS" value="true" />
-  </PHPCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
