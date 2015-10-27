@@ -7,9 +7,6 @@
             <id />
           </State>
           <State>
-            <id>Android Lint</id>
-          </State>
-          <State>
             <id>CSS</id>
           </State>
           <State>
@@ -69,7 +66,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>CssRedundantUnit</id>
+            <id>HtmlNonExistentInternetResource</id>
           </State>
         </selected-state>
       </profile-state>
