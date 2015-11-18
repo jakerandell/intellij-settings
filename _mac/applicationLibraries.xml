@@ -1,13 +1,20 @@
 <application>
   <component name="libraryTable">
     <library name="html5" type="javaScript">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_html5shiv.googlecode.com_svn_trunk_html5.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="htmlregistry" type="javaScript">
       <properties>
         <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_html5shiv.googlecode.com_svn_trunk_html5.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.n1.paychexinc.com_ent_png_landing_static_htmlregistry_201511111121_htmlregistry.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_html5shiv.googlecode.com_svn_trunk_html5.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.n1.paychexinc.com_ent_png_landing_static_htmlregistry_201511111121_htmlregistry.js" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
