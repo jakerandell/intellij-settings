@@ -1,7 +1,7 @@
 <application>
   <component name="ApplicationTasksOptions">
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="--no-cache --update $ProjectFileDir$/new/sass/$FileName$:$ProjectFileDir$/new/css/$FileDirPathFromParent(sass)$$FileNameWithoutExtension$.css --sourcemap=auto --style compressed" />
+      <option name="arguments" value="--no-cache --update $ProjectFileDir$/micros/airguns/sass/$FileName$:$ProjectFileDir$/micros/airguns/css/$FileDirPathFromParent(sass)$$FileNameWithoutExtension$.css --sourcemap=auto --style compressed" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" value="Compiles .scss files into .css files" />
       <option name="exitCodeBehavior" value="ERROR" />
@@ -15,7 +15,7 @@
       <option name="outputFromStdout" value="false" />
       <option name="program" value="/usr/bin/scss" />
       <option name="scopeName" value="Project Files" />
-      <option name="trackOnlyRoot" value="true" />
+      <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$FileDir$" />
       <envs />
     </TaskOptions>
