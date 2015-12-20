@@ -3,8 +3,8 @@
     <option name="customScope" value="Open Files" />
     <option name="defaultScopeName" value="Open Files" />
     <option name="localRegularExpressions" value="true" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Open Files" />
     <option name="FILE_MASK" value="*.html" />
@@ -13,10 +13,10 @@
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
-      <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
+      <mask>*.js</mask>
       <mask>*.html</mask>
     </recentFileMasks>
   </component>
