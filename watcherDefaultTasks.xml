@@ -8,7 +8,7 @@
       <option name="fileExtension" value="scss" />
       <option name="immediateSync" value="false" />
       <option name="name" value="SCSS" />
-      <option name="output" value="$FileNameWithoutExtension$.css" />
+      <option name="output" value="$ProjectFileDir$" />
       <option name="outputFilters">
         <array />
       </option>
@@ -16,7 +16,7 @@
       <option name="program" value="/usr/bin/scss" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="false" />
-      <option name="workingDir" value="$FileDir$" />
+      <option name="workingDir" value="$ProjectFileDir$" />
       <envs />
     </TaskOptions>
   </component>
