@@ -12,5 +12,10 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="Python 3.4.3 (/usr/local/bin/python3) interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
   </component>
 </application>
