@@ -1,23 +1,90 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Sites/Tasklist/routes/index.js" timestamp="1454687653701">
-        <mark key="]" line="700" column="0" />
-        <mark key="." line="700" column="0" />
+      <file name="$USER_HOME$/Sites/RGR-net/web/_modules/events/index.php" timestamp="1454691805796">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1" column="45" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/Tasklist/routes/index.js" timestamp="1454687787998">
+        <mark key="]" line="676" column="38" />
+        <mark key="." line="676" column="38" />
+        <mark key="^" line="676" column="38" />
+      </file>
+      <file name="$USER_HOME$/Sites/PCX-HTML5-demo/views/payroll3.hbs" timestamp="1454688147456">
+        <mark key="[" line="310" column="51" />
+        <mark key="]" line="310" column="49" />
+        <mark key="^" line="310" column="49" />
+        <mark key="." line="310" column="49" />
+      </file>
+      <file name="$USER_HOME$/Sites/RGR-net/smarty/templates/modules/events/main.tpl" timestamp="1454692526883">
+        <mark key="[" line="13" column="6" />
+        <mark key="]" line="13" column="14" />
+        <mark key="." line="13" column="14" />
+        <mark key="^" line="13" column="14" />
+      </file>
+      <file name="$USER_HOME$/Sites/RGR-net/web/_modules/events/_moduleConfig.php" timestamp="1454691376085">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="7" column="22" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/RGR-net/web/_modules/events/main.php" timestamp="1454692043237">
+        <mark key="'" line="17" column="2" />
+        <mark key="[" line="7" column="61" />
+        <mark key="]" line="7" column="63" />
+        <mark key="^" line="7" column="63" />
+        <mark key="." line="7" column="63" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="4" column="0" filename="$USER_HOME$/Sites/RGR-net/web/_modules/events/index.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/RGR-net/web/_modules/events/index.php" />
+      <jump line="2" column="2" filename="$USER_HOME$/Sites/RGR-net/web/_modules/events/main.php" />
+      <jump line="3" column="0" filename="$USER_HOME$/Sites/RGR-net/web/_modules/events/main.php" />
+      <jump line="8" column="0" filename="$USER_HOME$/Sites/RGR-net/web/_modules/events/main.php" />
+      <jump line="17" column="2" filename="$USER_HOME$/Sites/RGR-net/web/_modules/events/main.php" />
+    </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text>RPR Generator</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="8">
+        <text>RPR Generator</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJLy9jb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShwYXlsb2FkKSk7Cg==</text>
+        <text encoding="base64">CQl7aWYgJGlzUHVibGlzaGVkfQoJCTxzbWFsbD5UaGlzIGJhbGwgYmUgcHJvZHVjaW5nIHNvbWUgc3dlZXQgY3JlYW0uPC9zbWFsbD4KCQk8cD5EZXY0IFByZXZpZXc8L3A+CgkJPGlmcmFtZSBzcmM9Imh0dHA6Ly9kZXY0LnJ1Z2VyLmNvbS9kYXRhUHJvY2Vzcy9ycHIvY2hhbGxlbmdlLnBocCIgZnJhbWVib3JkZXI9IjAiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjcwMCI+PC9pZnJhbWU+CgkJey9pZn0K</text>
+      </register>
+      <register name="3" type="4">
+        <text>wtml</text>
+      </register>
+      <register name="4" type="4">
+        <text>h</text>
+      </register>
+      <register name="5" type="4">
+        <text>rprManager</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ZnVuY3Rpb24gZ2V0RW50cmllcygkY2F0LCAkbGltaXQsICYkZ2xvYmFsTG9nLCAmJHByb21vREIpIHsKCS8vICRnbG9iYWxMb2ctPmxvZygkZ2xvYmFsTG9nLT5fMF9ERUJVRywgJGNhdCk7CgkkdGVtcFNRTCA9ICdTRUxFQ1QgKiBGUk9NIHdlYmRhdGEucHJvbW9QcmVjaXNpb25SaWZsZSBXSEVSRSBlbnRyeUNhdGVnb3J5PT8gQU5EIGVudHJ5U3RhdHVzPT8gT1JERVIgQlkgZ3JvdXBTaXplLCBlbnRyeVRpbWUgREVTQyBMSU1JVCA/JzsKCSRzYiA9IG5ldyBTcWxCdWlsZGVyKCR0ZW1wU1FMKTsKCSRzYi0+c2V0VG9rZW4oIDEsICRzYi0+dG9rZW5UeXBlX1NUUklORywgJGNhdCk7Cgkkc2ItPnNldFRva2VuKCAyLCAkc2ItPnRva2VuVHlwZV9TVFJJTkcsICdBVkFJTEFCTEUnKTsKCSRzYi0+c2V0VG9rZW4oIDMsICRzYi0+dG9rZW5UeXBlX0lOVEVHRVIsICRsaW1pdCk7CgkkdGVtcFNRTCA9ICRzYi0+YnVpbGQoJHByb21vREItPmdldExpbmsoKSk7CgkvLyR0b3VjaHBvaW50REItPnJ1blF1ZXJ5KCR0ZW1wU1FMKTsKCgkvLyRteVJlc3VsdHMgPSAkdG91Y2hwb2ludERCLT5xdWVyeUluZm9bJ3Jlc3VsdHMnXTsKCSRteVJlc3VsdHMgPSAkcHJvbW9EQi0+cnVuUXVlcnkoJHRlbXBTUUwpLT5nZXRSZXN1bHRzQXJyYXkoKTsKCglpZiAoJG15UmVzdWx0cyAmJiBjb3VudCgkbXlSZXN1bHRzKSkgewoKCQlpZiAoJGxpbWl0ID09IDEpIHsKCQkJJG15UmVzdWx0cyA9ICRteVJlc3VsdHNbMF07CgoJCQlpZiAoJGNhdFR5cGVbJGNhdF0gPT0gJ2dyb3VwJykgewoJCQkJJG15UmVzdWx0c1snaXNQbGF0ZSddID0gJ25vJzsKCQkJCSRjYXRFeHBsZCA9IGV4cGxvZGUoJy0nLCAkbXlSZXN1bHRzWydlbnRyeUNhdGVnb3J5J10pOwoJCQkJJG15UmVzdWx0c1snY2F0RGlzdCddID0gJGNhdEV4cGxkWzBdOwoJCQkJJG15UmVzdWx0c1snY2F0R3JwJ10gPSAkY2F0RXhwbGRbMV07CgkJCX0gZWxzZWlmICgkY2F0VHlwZVskY2F0XSA9PSAncGxhdGUnKSB7CgkJCQkkbXlSZXN1bHRzWydpc1BsYXRlJ10gPSAneWVzJzsKCQkJfQoKCQkJaWYgKCRteVJlc3VsdHNbJ2NhbGliZXInXSA9PSAnMzA4JykgewoJCQkJJG15UmVzdWx0c1snY2FsaWJlciddID0gJzMwOCBXaW5jaGVzdGVyJzsKCQkJfSBlbHNlaWYgKCRteVJlc3VsdHNbJ2NhbGliZXInXSA9PSAnNjUnKSB7CgkJCQkkbXlSZXN1bHRzWydjYWxpYmVyJ10gPSAnNi41IENyZWVkbW9vcic7CgkJCX0gZWxzZWlmICgkbXlSZXN1bHRzWydjYWxpYmVyJ10gPT0gJzI0MycpIHsKCQkJCSRteVJlc3VsdHNbJ2NhbGliZXInXSA9ICcyNDMgV2luY2hlc3Rlcic7CgkJCX0KCgkJCSRteVJlc3VsdHNbJ2ltYWdlTGluayddID0gJ2h0dHBzOi8vcnVnZXItcHVibGljLnMzLXVzLXdlc3QtMi5hbWF6b25hd3MuY29tLycgLiAkbXlSZXN1bHRzWydpbWFnZU5hbWUnXTsKCQkJJG15UmVzdWx0c1snbGFzdG5hbWVTdWInXSA9IHN1YnN0cigkbXlSZXN1bHRzWydsYXN0bmFtZSddLCAwLCAxKTsKCQl9IGVsc2UgewoJCQkvLyAkZ2xvYmFsTG9nLT5sb2coJGdsb2JhbExvZy0+XzBfREVCVUcsICdjb3VudDogJyAuICBjb3VudCgkbXlSZXN1bHRzLCBDT1VOVF9OT1JNQUwpKTsKCgkJCWZvciAoJGk9MDsgJGkgPCBjb3VudCgkbXlSZXN1bHRzKTsgJGkrKykgewoJCQkJLy8gJGdsb2JhbExvZy0+bG9nKCRnbG9iYWxMb2ctPl8wX0RFQlVHLCAkaSk7CgkJCQkvLyAkZ2xvYmFsTG9nLT5sb2coJGdsb2JhbExvZy0+XzBfREVCVUcsICRteVJlc3VsdHNbJGldWydmaXJzdG5hbWUnXSk7CgkJCQlpZiAoJGNhdFR5cGVbJGNhdF0gPT0gJ2dyb3VwJykgewoJCQkJCSRteVJlc3VsdHNbJGldWydpc1BsYXRlJ10gPSAnbm8nOwoJCQkJCSRjYXRFeHBsZCA9IGV4cGxvZGUoJy0nLCAkbXlSZXN1bHRzWyRpXVsnZW50cnlDYXRlZ29yeSddKTsKCQkJCQkkbXlSZXN1bHRzWyRpXVsnY2F0RGlzdCddID0gJGNhdEV4cGxkWzBdOwoJCQkJCSRteVJlc3VsdHNbJGldWydjYXRHcnAnXSA9ICRjYXRFeHBsZFsxXTsKCQkJCX0gZWxzZWlmICgkY2F0VHlwZVskY2F0XSA9PSAncGxhdGUnKSB7CgkJCQkJJG15UmVzdWx0c1skaV1bJ2lzUGxhdGUnXSA9ICd5ZXMnOwoJCQkJfQoKCQkJCWlmICgkbXlSZXN1bHRzWyRpXVsnY2FsaWJlciddID09ICczMDgnKSB7CgkJCQkJJG15UmVzdWx0c1skaV1bJ2NhbGliZXInXSA9ICczMDggV2luY2hlc3Rlcic7CgkJCQl9IGVsc2VpZiAoJG15UmVzdWx0c1skaV1bJ2NhbGliZXInXSA9PSAnNjUnKSB7CgkJCQkJJG15UmVzdWx0c1skaV1bJ2NhbGliZXInXSA9ICc2LjUgQ3JlZWRtb29yJzsKCQkJCX0gZWxzZWlmICgkbXlSZXN1bHRzWyRpXVsnY2FsaWJlciddID09ICcyNDMnKSB7CgkJCQkJJG15UmVzdWx0c1skaV1bJ2NhbGliZXInXSA9ICcyNDMgV2luY2hlc3Rlcic7CgkJCQl9CgoJCQkJJG15UmVzdWx0c1skaV1bJ2ltYWdlTGluayddID0gJ2h0dHBzOi8vcnVnZXItcHVibGljLnMzLXVzLXdlc3QtMi5hbWF6b25hd3MuY29tLycgLiAkbXlSZXN1bHRzWyRpXVsnaW1hZ2VOYW1lJ107CgkJCQkkbXlSZXN1bHRzWyRpXVsnbGFzdG5hbWVTdWInXSA9IHN1YnN0cigkbXlSZXN1bHRzWyRpXVsnbGFzdG5hbWUnXSwgMCwgMSk7CgkJCX0KCQl9CgoKCQlyZXR1cm4gJG15UmVzdWx0czsKCX0gZWxzZSB7CgkJLy8gcmV0dXJuIG51bGw7Cgl9Cn0=</text>
+      </register>
+      <register name="7" type="4">
+        <text>f</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZnVuY3Rpb24gZ2V0RW50cmllcygkY2F0LCAkbGltaXQsICYkZ2xvYmFsTG9nLCAmJHByb21vREIpIHsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ZnVuY3Rpb24gZ2V0RW50cmllcygkY2F0LCAkbGltaXQsICYkZ2xvYmFsTG9nLCAmJHByb21vREIpIHsK</text>
+      </register>
+      <register name=":" type="4">
+        <text>actionlist</text>
+      </register>
+      <register name="-" type="4">
+        <text>wtml</text>
       </register>
     </registers>
     <search>
@@ -26,11 +93,20 @@
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>actionlist</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="true" />
     </editor>
