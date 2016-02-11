@@ -7,7 +7,7 @@
     <option name="RESOLVE_REFERENCES" value="true" />
     <injection language="SQL" injector-id="js">
       <display-name>HTML5 SQL Database (SQL)</display-name>
-      <place><![CDATA[jsLiteralExpression().and(jsArgument("executeSql", 0))]]></place>
+      <place><![CDATA[jsLiteralExpression().and(asAssignedValue("text", "*", "statement", "st").withText(string().matchesBrics(" *(((SELECT|DELETE) .*FROM)|((INSERT|REPLACE) .*INTO)|(UPDATE .*SET)|((CREATE|DROP|ALTER) +(TABLE|INDEX))) .*")))]]></place>
     </injection>
   </component>
 </application>
