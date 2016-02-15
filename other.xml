@@ -193,6 +193,6 @@
     <option name="EMAIL" value="" />
   </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="/usr/local/bin/node" version="0.12.3" last-modified="1432142201000" />
+    <node-interpreter path="/usr/local/bin/node" version="5.6.0" last-modified="1455044805000" />
   </component>
 </application>
