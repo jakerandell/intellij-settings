@@ -1,9 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="16">
-    <extensionMap>
-      <mapping ext="cshtml" type="HTML" />
-      <mapping ext="auth" type="PLAIN_TEXT" />
-      <mapping ext="do" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>
