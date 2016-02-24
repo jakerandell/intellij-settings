@@ -2,8 +2,10 @@
   <component name="FileTypeManager" version="16">
     <extensionMap>
       <mapping ext="cshtml" type="HTML" />
+      <removed_mapping ext="html" approved="true" type="HTML" />
       <mapping ext="auth" type="PLAIN_TEXT" />
       <mapping ext="do" type="PLAIN_TEXT" />
+      <mapping ext="html" type="Smarty" />
     </extensionMap>
   </component>
 </application>
