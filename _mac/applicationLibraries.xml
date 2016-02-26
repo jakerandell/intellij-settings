@@ -4,6 +4,7 @@
       <properties>
         <sourceFilesUrls>
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_f.vimeocdn.com_js_froogaloop2.min.js" />
+          <item url="file://$USER_HOME$/Library/Smarty/Smarty-3.1.21" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
