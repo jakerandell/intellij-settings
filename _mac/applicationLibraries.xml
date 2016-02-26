@@ -8,9 +8,12 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_f.vimeocdn.com_js_froogaloop2.min.js" />
+        <root url="file://$USER_HOME$/Library/Smarty/Smarty-3.1.21" />
       </CLASSES>
       <JAVADOC />
-      <SOURCES />
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Smarty/Smarty-3.1.21" />
+      </SOURCES>
     </library>
     <library name="Python 3.4.3 (/usr/local/bin/python3) interpreter library">
       <CLASSES />
