@@ -1,0 +1,8 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="duplicateAndIncrement">
+      <action id="osmedile.intellij.stringmanip.PopupChoiceAction" />
+      <typing text-keycode="71:0">g</typing>
+    </macro>
+  </component>
+</application>
