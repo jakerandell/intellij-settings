@@ -31,9 +31,6 @@
             <id>Data flow issuesJava</id>
           </State>
           <State>
-            <id>File Watchers</id>
-          </State>
-          <State>
             <id>General</id>
           </State>
           <State>
@@ -53,9 +50,6 @@
           </State>
           <State>
             <id>JavaScript</id>
-          </State>
-          <State>
-            <id>Node.jsJavaScript</id>
           </State>
           <State>
             <id>PHP</id>
