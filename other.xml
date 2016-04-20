@@ -7,69 +7,15 @@
             <id />
           </State>
           <State>
-            <id>CSS</id>
+            <id>Python</id>
           </State>
           <State>
-            <id>Code SmellPHP</id>
-          </State>
-          <State>
-            <id>Code StylePHP</id>
-          </State>
-          <State>
-            <id>Code quality toolsJavaScript</id>
-          </State>
-          <State>
-            <id>Code style issuesCSS</id>
-          </State>
-          <State>
-            <id>Control FlowPHP</id>
-          </State>
-          <State>
-            <id>DOM issuesJavaScript</id>
-          </State>
-          <State>
-            <id>Data flow issuesJava</id>
-          </State>
-          <State>
-            <id>General</id>
-          </State>
-          <State>
-            <id>GeneralJavaScript</id>
-          </State>
-          <State>
-            <id>GeneralPHP</id>
-          </State>
-          <State>
-            <id>HTML</id>
-          </State>
-          <State>
-            <id>JSON</id>
-          </State>
-          <State>
-            <id>Java</id>
-          </State>
-          <State>
-            <id>JavaScript</id>
-          </State>
-          <State>
-            <id>PHP</id>
-          </State>
-          <State>
-            <id>Probable bugsPHP</id>
-          </State>
-          <State>
-            <id>Sass/SCSS</id>
-          </State>
-          <State>
-            <id>Security issuesJava</id>
-          </State>
-          <State>
-            <id>Spelling</id>
+            <id>XSLT</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>JSJQueryEfficiency</id>
+            <id>AngularJS</id>
           </State>
         </selected-state>
       </profile-state>
