@@ -12,9 +12,19 @@
         <root url="file://$USER_HOME$/Library/Smarty/Smarty-3.1.21" />
       </CLASSES>
       <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/Library/Smarty/Smarty-3.1.21" />
-      </SOURCES>
+      <SOURCES />
+    </library>
+    <library name="mapbox" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_api.mapbox.com_mapbox.js_v2.4.0_mapbox.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_api.mapbox.com_mapbox.js_v2.4.0_mapbox.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
     </library>
     <library name="Python 3.4.3 (/usr/local/bin/python3) interpreter library">
       <CLASSES />
