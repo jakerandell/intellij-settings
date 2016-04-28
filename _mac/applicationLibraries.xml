@@ -43,6 +43,25 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="Python 3.4.3 virtualenv at ~/Sites/worktimer/flask interpreter library">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/python3/3.4.3_2/Frameworks/Python.framework/Versions/3.4/lib/python3.4" />
+        <root url="file:///usr/local/Cellar/python3/3.4.3_2/Frameworks/Python.framework/Versions/3.4/lib/python3.4/plat-darwin" />
+        <root url="file:///usr/local/Cellar/python3/3.4.3_2/Frameworks/Python.framework/Versions/3.4/lib/python3.4/lib-dynload" />
+        <root url="file://$USER_HOME$/Sites/worktimer/flask/lib/python3.4/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.1/python_stubs/1066734950" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/python3/3.4.3_2/Frameworks/Python.framework/Versions/3.4/lib/python3.4" />
+        <root url="file:///usr/local/Cellar/python3/3.4.3_2/Frameworks/Python.framework/Versions/3.4/lib/python3.4/plat-darwin" />
+        <root url="file:///usr/local/Cellar/python3/3.4.3_2/Frameworks/Python.framework/Versions/3.4/lib/python3.4/lib-dynload" />
+        <root url="file://$USER_HOME$/Sites/worktimer/flask/lib/python3.4/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.1/python_stubs/1066734950" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </SOURCES>
+    </library>
     <library name="Smarty-3.1">
       <CLASSES />
       <JAVADOC />
