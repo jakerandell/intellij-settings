@@ -4,4 +4,9 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="debug" value="ini_set('display_errors',1);&#10;ini_set('display_startup_errors',1);&#10;error_reporting(-1);" description="insert debug error level" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
